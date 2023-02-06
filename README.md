@@ -1,7 +1,6 @@
 
-# Solana Hackathon 2023 -- SolPets 
-
-This is the official Solana Hackathon 2023 submission for our project SolPets 🌈. 
+# SolPets 
+ 
 
 ## Project Description 
 SolPets is a pet verification platform that turns your pet's information into a passport NFT to show proof-of-animal, and proof-of-ownership. SolPets aims to make record keeping easier for pet parents so that they can store important vaccination records and health information in one place and keep pet's history accessible at all times. Our goal for this project is to also help stop the illegal trafficking of endangered animals and help support animal shelters by making exclusive NFTs that can be auctioned to donate to various animal organizations. We will also generate and store NFTs for pets that are looking for homes so that families looking to adopt or support the pet in need can do so. 
@@ -15,11 +14,6 @@ SolPets is a pet verification platform that turns your pet's information into a 
 
 Deployed contracts : 
 
-- [PolygonMumbai](https://mumbai.polygonscan.com/) 
-- [CronosTestnet](https://cronos.org/docs/getting-started/cronos-testnet.html) 
-- [GnosisTesnet (sokol)](https://blockscout.com/xdai/testnet) 
-- [CeloTesnet (Alfajores)](https://alfajores-blockscout.celo-testnet.org/) 
-- [NeonTestnet](https://neon-labs.org/)
 
 Those deployments were done using .......
 
@@ -88,7 +82,7 @@ You can take a look at our proposal :
 
 ## Contact Information :
 
- You can contact the team directly via email : rhouzm@gmail.com or jmartinez414@gmail.com
+ You can contact the team directly via email : jmartinez414@gmail.com
 
 ## Video Link : 
 
