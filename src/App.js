@@ -13,8 +13,7 @@ import {
   getPhantomWallet,
   getSolflareWallet,
   getSolletWallet,
-  getSolletExtensionWallet,
-  getLedgerWallet,
+  getSolletExtensionWallet
 } from '@solana/wallet-adapter-wallets';
 import { WalletModalProvider } from '@solana/wallet-adapter-react-ui';
 import Home from './components/home';
@@ -31,7 +30,6 @@ function App() {
       getSolflareWallet(),
       getSolletWallet({ network }),
       getSolletExtensionWallet({ network }),
-      getLedgerWallet(),
     ],
     [network]
   );
